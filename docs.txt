@@ -1,0 +1,6 @@
+this is the real-time application using websockets
+websockets is the two way connection.
+https://socket.io/docs/v4/
+
+Http is a one way connection where client request server for update.
+In websockets, either of server or client can push updates to eachother
